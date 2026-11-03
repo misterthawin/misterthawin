@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/misterthawin">GitHub</a> ·
-  <a href="https://github.com/misterthawin/misterthawin.github.io">Portfolio</a> ·
+  <a href="https://misterthawin.me">Portfolio</a> ·
   <a href="https://github.com/misterthawin?tab=repositories">Projects</a>
 </p>
 
@@ -29,7 +29,7 @@ My current interests combine **software development, cybersecurity, MCP, and AI 
 
 ## Featured projects
 
-- **[Portfolio website](https://github.com/misterthawin/misterthawin.github.io)** — My personal portfolio and professional home on the web.
+- **[Portfolio website](https://misterthawin.me)** — My personal portfolio and professional home on the web.
 - **[ggezcode](https://github.com/misterthawin/ggezcode)** — A space for experiments, practice, and building in public.
 - **[ThawinX UI](https://github.com/misterthawin/ThawinX_UI)** — UI work and component experiments.
 
